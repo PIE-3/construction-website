@@ -1,0 +1,42 @@
+
+html,body{
+    background-color: black;
+    color: white;
+    font-family: perpetua;
+}
+
+.header{
+    width: 100%;
+    position: fixed;
+    background-color: grey;
+}
+
+.nav{
+    text-align: center;
+}
+
+.btn {
+    background-color:black; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    padding: 15px 32px;
+}
+  
+.btn:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.aboutUs{
+    text-align: left;
+}
+
+.signIn :hover{
+    cursor: pointer;
+}
